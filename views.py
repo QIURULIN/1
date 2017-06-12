@@ -1,3 +1,6 @@
+
+# coding: utf-8
+
 ＃在[1]中：
 从烧瓶导入 render_template，flash，redirect，Flask，request，escape
 从应用程式汇入应用程式
